@@ -1,2 +1,0 @@
-# TGLFinalFrontend
-Frontend for presentation.
